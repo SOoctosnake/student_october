@@ -2,11 +2,18 @@
 toc: true
 comments: True
 layout: post
-title: Peer Review Week
-description: This is a review of what I did/learned this week
+title: Peer Review Week 6
+description: Peer Review
 type: tangibles
 courses: { compsci: {week: 6} }
 ---
+<script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 # JavaScript Basics Rubric
 ## Total points 4
