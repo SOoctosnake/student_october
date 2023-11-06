@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Algorithm Homework
-description: A simple game where you drag and drop shapes!
+description: What I learned about algorithms
 type: tangibles
 courses: { compsci: {week: 7} }
 ---
