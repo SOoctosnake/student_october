@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Algorithm Homework
 description: What I learned about algorithms
-type: tangibles
+type: hacks
 courses: { compsci: {week: 7} }
 ---
 # Algorithms

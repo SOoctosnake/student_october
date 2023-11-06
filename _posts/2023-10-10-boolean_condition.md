@@ -2,9 +2,9 @@
 toc: true
 comments: false
 layout: post
-title: Boolean and Conditions
+title: Boolean and Conditions Homework
 description: What I learned
-type: tangibles
+type: hacks
 courses: { compsci: {week: 8} }
 ---
 # Boolean and Conditions

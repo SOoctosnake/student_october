@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Data Abstraction Homework
 description: What I learned
-type: tangibles
+type: hacks
 courses: { compsci: {week: 7} }
 ---
 # Data Abstraction
