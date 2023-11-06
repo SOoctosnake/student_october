@@ -8,6 +8,9 @@ type: tangibles
 courses: { compsci: {week: 10} }
 ---
 
+# My preparation for the MC
+- Reading back on all the team teaches really help me excel in the MCQ
+
 # My thoughts on the MC
 Taking the College Board's AP CSP multiple-choice exam with 66 questions was a challenging but valuable experience. It covered a wide range of computer science topics, from algorithms and data structures to internet security and ethical considerations. It assessed my knowledge, problem-solving skills, and the ability to apply computational concepts. The timed nature of the exam added an element of pressure, which simulated real-world scenarios. One thing I really learned while taking it was the importance on pseudo code. It is a universal language that everyone can understand. It also highlighted the importance of time management and critical thinking. Overall, it was an opportunity to demonstrate my understanding of computer science principles and, though challenging, helped to refine my skills and knowledge in this field.
 
