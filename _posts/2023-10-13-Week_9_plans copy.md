@@ -1,0 +1,21 @@
+---
+toc: false
+comments: false
+layout: post
+title: Weekly Plan
+description: Plans for week 8
+type: plans
+courses: { compsci: {week: 9} }
+---
+
+# Notebook/Website Plans
+- Jonathan will help link AWS to our website
+- Me and Sri will create a front page. In that front page, there will be:
+A post button (not link yet)
+A place to view post
+- Gavin will work on linking the post button to Jonathan's AWS
+
+
+# Hacks Plan
+- Update all the team teaches
+
