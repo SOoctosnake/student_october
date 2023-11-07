@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Team Teach
 description: This is our team teach
-type: Hacks
+type: hacks
 courses: { compsci: {week: 8} }
 ---
 This is the link to what we taught

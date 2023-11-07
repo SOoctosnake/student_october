@@ -44,4 +44,6 @@ Taking the College Board's AP CSP multiple-choice exam with 66 questions was a c
 
 - Documentation: Writing comments and documentation to explain code and make it more understandable for others.
 
-- Project Management: Organizing and planning larger coding projects, including setting goals and timelines.
+## What I need to work on
+
+I need to learn how to break down code and pseudo code
