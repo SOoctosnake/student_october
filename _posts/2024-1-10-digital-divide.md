@@ -2,7 +2,7 @@
 toc: false
 comments: false
 layout: post
-title: Legal and Ethical Concern
+title: Digital Divide
 description: HW
 type: tangibles
 courses: { compsci: {week: 10} }
